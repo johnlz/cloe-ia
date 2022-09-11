@@ -1,0 +1,26 @@
+{
+  "name": "cloe-ia",
+  "version": "1.0.0",
+  "description": "um bot que conversa com o público com a sua inteligencia artificial.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlz/cloe-ia.git"
+  },
+  "author": "johnlz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnlz/cloe-ia/issues"
+  },
+  "homepage": "https://github.com/johnlz/cloe-ia#readme",
+  "dependencies": {
+    "@sapphire/framework": "^3.0.0",
+    "axios": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
